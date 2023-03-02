@@ -17,6 +17,7 @@
 
 <div align="center">
   <h3 align="center">Batatabit</h3>
+  https://orlandcasta.github.io/responsive-design-batata/
 </div>
 
 <!-- ABOUT THE PROJECT -->
